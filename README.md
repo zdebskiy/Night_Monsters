@@ -1,2 +1,2 @@
-Night_Monsters
-Unity game for kids
+Night Monsters
+Just CS script files: GameDirector, Managers, Controllers...
